@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="5sp"
+    android:background="@android:drawable/alert_dark_frame" >
+
+    <Button
+        android:id="@+id/widget_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Change it!" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="222dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_alignTop="@+id/trikk_image"
+        android:text="Trikk 11: Innstilt mellom Stortorvet og Homansbyen"
+        android:textColor="@color/green"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="222dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tog_image"
+        android:layout_toRightOf="@+id/tog_image"
+        android:text="Tog R30: Buss for tog mellom Jaren og Gjøvik"
+        android:textColor="@color/red"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/widget_image"
+        android:layout_width="150sp"
+        android:layout_height="50sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_launcher" />
+
+    <ImageView
+        android:id="@+id/tog_image"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TextView01"
+        android:layout_margin="5sp"
+        android:layout_weight="2.27"
+        android:background="@color/red"
+        android:src="@drawable/tog" />
+
+    <ImageView
+        android:id="@+id/trikk_image"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/widget_image"
+        android:layout_margin="5sp"
+        android:layout_marginLeft="14dp"
+        android:background="@color/green"
+        android:src="@drawable/trikk" />
+
+    <ImageView
+        android:id="@+id/ImageView01"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_margin="5sp"
+        android:layout_weight="2.27"
+        android:background="@color/red"
+        android:src="@drawable/tog" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="222dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_alignTop="@+id/ImageView01"
+        android:text="L22: Buss for tog mellom Mysen og Spydeberg"
+        android:textColor="@color/red"
+        android:textSize="20sp" />
+
+</RelativeLayout>
