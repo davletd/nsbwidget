@@ -4,6 +4,10 @@
     <string name="app_name">NSB</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="connection_error">connection_error</string>
+    <string name="xml_error">xml_error</string>
+    <string name="page_title">page_title</string>
+    <string name="updated">updated</string>
 	<color name="red">#FF0000</color>
 	<color name="green">#00FF00</color>
 </resources>

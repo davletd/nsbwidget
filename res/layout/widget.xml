@@ -20,7 +20,6 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/textView1"
         android:layout_alignTop="@+id/trikk_image"
-        android:text="Trikk 11: Innstilt mellom Stortorvet og Homansbyen"
         android:textColor="@color/green"
         android:textSize="20sp" />
 
