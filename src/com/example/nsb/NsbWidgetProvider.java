@@ -16,8 +16,13 @@ public class NsbWidgetProvider extends AppWidgetProvider {
 
 		RemoteViews remoteViews = new RemoteViews(context.getPackageName(), R.layout.widget);
 		remoteViews.setOnClickPendingIntent(R.id.widget_button, buildButtonPendingIntent(context));
-
+		initWidget(context, remoteViews);
 		pushWidgetUpdate(context, remoteViews);
+	}
+	
+	private void initWidget(Context context, RemoteViews remoteViews) {
+		remoteViews.setTextViewText(R.id.TextView01, "Trikk 12: Innstilt mellom Stortorvet og Homansbyen");
+		
 	}
 
 	public static PendingIntent buildButtonPendingIntent(Context context) {
