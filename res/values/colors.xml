@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nsb_red">#D52B1E</color>
+    <color name="nsb_grey1">#E0E1DD</color>
+    <color name="nsb_grey2">#C9CAC8</color>
+    <color name="nsb_grey3">#ADAFAF</color>
+    <color name="nsb_grey4">#4D4F53</color>
+    <color name="nsb_orange">#fd9600</color>
+    <color name="nsb_green">#3ca232</color>
+</resources>
