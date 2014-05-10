@@ -8,5 +8,11 @@
     <string name="page_title">page_title</string>
     <string name="updated">updated</string>
     <string name="empty_view_text">empty_view_text</string>
-    
+    <string name="deviation_description">Fredag 30. mai utfører Jernbaneverket planlagte forbedringsarbeider på strekningen Jaren-Gjøvik. Det jobbes fra kl. 09:00 til kl. 15:00 hver dag i periodene. Strekningen vil bli stengt for togtrafikk, men det kjøres buss isteden for tog. 
+<br />Bussen bruker normalt lengre tid enn toget, men passasjerer bes likevel møte opp i henhold til ordinær rutetabell.</string>
+	<string name="deviation_body">Linje R30 Gjøvik-Oslo S:\nDet kjøres buss fra Gjøvik til Jaren, tog fra Jaren til Oslo S.\nMerk! Togene venter på Jaren til busser fra strekningen Gjøvik-Eina har ankommet.\n\nLinje R30 Oslo S-Gjøvik:\nDet kjøres tog fra Oslo S til Jaren og buss fra Jaren til Gjøvik.
+	</string>
+	<color name="red">#FF0000</color>
+	<color name="green">#00FF00</color>
+	<color name="white">#000000</color>
 </resources>
