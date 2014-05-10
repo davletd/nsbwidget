@@ -29,7 +29,7 @@ public class NsbWidgetRemoteFactory  implements RemoteViewsFactory
 	private void updateWidgetListView()
 	{
 //	    String[] widgetFruitsArray = dbhelper.retrieveFruitsList();
-		String[] widgetFruitsArray = {"item1", "item2"};
+		String[] widgetFruitsArray = {"item1", "item2", "item3"};
 	    List<String> convertedToList = new ArrayList<String>(Arrays.asList(widgetFruitsArray));
 	    this.widgetList = convertedToList;
 	}
