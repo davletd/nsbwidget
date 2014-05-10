@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">NSB</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
@@ -8,8 +9,44 @@
     <string name="page_title">page_title</string>
     <string name="updated">updated</string>
     <string name="empty_view_text">empty_view_text</string>
-    <string name="deviation_description">Fredag 30. mai utfører Jernbaneverket planlagte forbedringsarbeider på strekningen Jaren-Gjøvik. Det jobbes fra kl. 09:00 til kl. 15:00 hver dag i periodene. Strekningen vil bli stengt for togtrafikk, men det kjøres buss isteden for tog. 
-<br />Bussen bruker normalt lengre tid enn toget, men passasjerer bes likevel møte opp i henhold til ordinær rutetabell.</string>
-	<string name="deviation_body">Linje R30 Gjøvik-Oslo S:\nDet kjøres buss fra Gjøvik til Jaren, tog fra Jaren til Oslo S.\nMerk! Togene venter på Jaren til busser fra strekningen Gjøvik-Eina har ankommet.\n\nLinje R30 Oslo S-Gjøvik:\nDet kjøres tog fra Oslo S til Jaren og buss fra Jaren til Gjøvik.
-	</string>
+    <string name="deviation_description">Fredag 30. mai utfører Jernbaneverket planlagte forbedringsarbeider på strekningen Jaren-Gjøvik. Det jobbes fra kl. 09:00 til kl. 15:00 hver dag i periodene. Strekningen vil bli stengt for togtrafikk, men det kjøres buss isteden for tog. <br />Bussen bruker normalt lengre tid enn toget, men passasjerer bes likevel møte opp i henhold til ordinær rutetabell.</string>
+    <string name="deviation_body">Linje R30 Gjøvik-Oslo S:\nDet kjøres buss fra Gjøvik til Jaren, tog fra Jaren til Oslo S.\nMerk! Togene venter på Jaren til busser fra strekningen Gjøvik-Eina har ankommet.\n\nLinje R30 Oslo S-Gjøvik:\nDet kjøres tog fra Oslo S til Jaren og buss fra Jaren til Gjøvik.</string>
+    <string name="deviation_description2">Fra fredag 9.mai kl. 23:10 til søndag 11.mai kl. 11:30 utfører Jernbaneverket planlagte forbedringsarbeider på strekningen Oslo S-Jaren/Gjøvik. Strekningen vil bli stengt for togtrafikk men det kjøres buss istedenfor tog.
+
+Bussen bruker normalt lengre tid enn toget, men passasjerer bes likevel møte opp i henhold til ordinær rutetabell.</string>
+    <string name="deviation_body2">\nLørdag 10. mai
+\n
+Det kjøres buss for tog strekningen Oslo S - Jaren - Oslo S hele dagen.
+\n
+Søndag 11. mai:
+\n
+Avgangen fra Oslo S kl. 07:42 til Jaren 09:07 erstattes av buss fra Oslo S til Jaren.
+\n
+Avgangen fra Oslo S kl. 09:42 til Jaren 11:06 erstattes av buss fra Oslo S til Jaren.
+\n
+Avgangen fra Jaren kl. 05:28 til Oslo S 06:48 erstattes av buss fra Jaren til Oslo S.
+\n
+Avgangen fra Jaren kl. 07:21 til Oslo S 08:48 erstattes av buss fra Jaren til Oslo S.
+\n
+Avgangen fra Jaren kl. 09:21 til Oslo S 10:50 erstattes av buss fra Jaren til Oslo S.
+\n
+Avgangen fra Jaren kl. 11:20 til Oslo S 12:48 erstattes av buss fra Jaren til Oslo S. 
+</string>
+<string name="deviation_description3">Fra lørdag 10. mai kl. 13.30 til søndag 11. mai kl. 13.00 gjøres det forbedringer på strekningene Oslo S-Ski, Ski-Mysen og Ski-Ås. Fra fredag 9. mai kl. 20.00 til mandag 12. mai kl. 04.00 gjøres det forbedringer på strekningene Spydeberg-Mysen. Strekningene vil bli stengt for togtrafikk, men det kjøres buss/taxi i stedet for tog.
+
+Bussen bruker normalt lengre tid enn toget, men passasjerer bes likevel møte opp i henhold til ordinær rutetabell.</string>
+    <string name="deviation_body3">\nLørdag 10. mai kl. 13.30 til søndag 11. mai kl. 12.30.
+\n
+Linje R20 Oslo S-Halden/Gøteborg:
+\n
+Det kjøres buss fra Oslo S til Vestby og tog fra fra Vestby til Halden/Gøteborg.
+\n
+Togene venter i Vestby til bussene har ankommet.
+\n
+Linje R20 Gøteborg/Halden-Oslo S:
+\n
+Det kjøres tog fra Gøteborg/Halden til Vestby og buss fra Vestby til Oslo S. 
+</string>
+    <string name="title_activity_detail">Detail</string>
+
 </resources>

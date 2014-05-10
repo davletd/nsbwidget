@@ -8,13 +8,13 @@
      
     
     <ImageView
-        android:id="@+id/deviation_icon_2"
+        android:id="@+id/deviation_icon"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginRight="4dp"
         android:layout_marginLeft="10dp"
         android:layout_gravity="center_vertical"
-        android:src="@drawable/train_icon" />
+        android:src="@drawable/bus_icon" />
     
 	<LinearLayout 
 	    android:layout_width="fill_parent"
@@ -25,21 +25,21 @@
         android:layout_gravity="center_vertical"
 	    android:orientation="vertical" >
 	    
-		<TextView android:id="@+id/deviation_description_2"
+		<TextView android:id="@+id/deviation_description"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 	        android:gravity="center_vertical|left"
 	        android:textSize="16sp"
 	        android:textColor="@color/nsb_grey4"
-			android:text="Tog R30: Buss for tog mellom Oslo S og Gjøvik" />
+			android:text="Buss 20: Innstilt Skøyen–Majorstuen–Skøyen " />
 		
-		<TextView android:id="@+id/deviation_description_time_2"
+		<TextView android:id="@+id/deviation_description_time"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 	        android:gravity="center_vertical|left"
 	        android:textSize="10sp"
 	        android:textColor="@color/nsb_grey3"
-			android:text="09.05.2014 23:10 - 11.05.2014 11:30" />
+			android:text="10.05.2014 12:15 - 10.05.2014 20:00" />
 	
 	</LinearLayout>
 	
