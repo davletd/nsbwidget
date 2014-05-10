@@ -106,4 +106,5 @@
 	        android:textColor="@color/nsb_grey3"
 			android:text="Sist oppdatert: 11:20 Fredag 09.05.2014" />
 
+	</LinearLayout>
 </LinearLayout>

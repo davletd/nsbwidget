@@ -2,13 +2,13 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:background="@drawable/orange_line_bg"
+    android:background="@drawable/red_line_bg"
     android:orientation="horizontal" 
     android:layout_margin="2sp">
      
     
     <ImageView
-        android:id="@+id/deviation_icon"
+        android:id="@+id/deviation_icon_2"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginRight="4dp"
@@ -25,21 +25,21 @@
         android:layout_gravity="center_vertical"
 	    android:orientation="vertical" >
 	    
-		<TextView android:id="@+id/deviation_description"
+		<TextView android:id="@+id/deviation_description_2"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 	        android:gravity="center_vertical|left"
 	        android:textSize="16sp"
 	        android:textColor="@color/nsb_grey4"
-			android:text="Tog L3: Buss for tog mellom Oslo S og Jaren" />
+			android:text="Tog R30: Buss for tog mellom Oslo S og Gjøvik" />
 		
-		<TextView android:id="@+id/deviation_description_time"
+		<TextView android:id="@+id/deviation_description_time_2"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 	        android:gravity="center_vertical|left"
 	        android:textSize="10sp"
 	        android:textColor="@color/nsb_grey3"
-			android:text="10.05.2014 03:00 - 11.05.2014 12:48" />
+			android:text="09.05.2014 23:10 - 11.05.2014 11:30" />
 	
 	</LinearLayout>
 	
