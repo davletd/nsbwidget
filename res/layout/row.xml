@@ -3,7 +3,8 @@
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:background="@drawable/red_line_bg"
-    android:orientation="horizontal" >
+    android:orientation="horizontal" 
+    android:layout_margin="2sp">
      
     
     <ImageView
@@ -49,5 +50,8 @@
         android:layout_gravity="center_vertical"
         android:layout_margin="4dp"
         android:src="@drawable/arrow_icon" />
+      
+       
 	
 </LinearLayout>
+

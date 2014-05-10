@@ -85,10 +85,6 @@
         android:textColor="@color/red"
         android:textSize="20sp" />
     
-    <ListView
-		android:id="@+id/Nsb_list"
-		android:layout_width="fill_parent" 
-		android:layout_height="fill_parent"
-		android:drawSelectorOnTop="false"/>
+
 
 </RelativeLayout>
